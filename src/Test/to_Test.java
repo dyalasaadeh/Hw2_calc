@@ -6,9 +6,7 @@ import calculator.calculator;
 import junit.framework.Assert;
 
 public class to_Test {
-
-	
-		@Test
+			@Test
 		public void testSum_BothNumbersArePositive_ShouldReturnPositiveNumber() {
 		// Arrange
 		int a = 10;
