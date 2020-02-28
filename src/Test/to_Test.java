@@ -4,10 +4,10 @@ import org.junit.Test;
 
 import calculator.calculator;
 import junit.framework.Assert;
-@SuppressWarnings("deprecation")
+
 public class to_Test {
 
-	class testcase {
+	
 		@Test
 		public void testSum_BothNumbersArePositive_ShouldReturnPositiveNumber() {
 		// Arrange
@@ -49,4 +49,3 @@ public class to_Test {
 	}
 
 
-}
